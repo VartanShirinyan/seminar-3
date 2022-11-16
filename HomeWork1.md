@@ -20,4 +20,4 @@
 - git rm [filename] - удалить файл.
 - git checkout master - возврат на актуальное состояние или на главную ветку.
 - git diff - показывает разницу между текущим файлом и сохраненным.
-- git branch -d [BranchName] - удаление ветки с именем BranchName
+- git branch -d [BranchName] - удаление ветки с именем BranchName.
