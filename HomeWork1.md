@@ -15,4 +15,4 @@
 - clear - очистить окно терминала.
 - git branch [BranchName] - создание новой ветки.
 - git checkout [BranchName] - переход на ветку с именем BranchName.
-- git rm [filename] - удалить файл
+- git rm [filename] - удалить файл.
