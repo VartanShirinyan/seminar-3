@@ -13,8 +13,10 @@
 комментарием.
 - git log - просмотр всех сделанных коммитов.
 - clear - очистить окно терминала.
+- git branch - показывает наличие веток, и на какой ветке мы находимся.
 - git branch [BranchName] - создание новой ветки.
 - git checkout [BranchName] - переход на ветку с именем BranchName.
+- git branch --move master main - переименовать ветку master в main.
 - git rm [filename] - удалить файл.
 - git checkout master - возврат на актуальное состояние или на главную ветку.
 - git checkout [number commit] - возврат к предыдущим версиям, до
