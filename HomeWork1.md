@@ -17,3 +17,5 @@
 - git checkout [BranchName] - переход на ветку с именем BranchName.
 - git rm [filename] - удалить файл.
 - git checkout master - возврат на актуальное состояние или на главную ветку.
+- git checkout [number commit] - возврат к предыдущим версиям, до
+последующих изменений после коммита с номером number commit
