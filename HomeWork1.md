@@ -19,5 +19,4 @@
 - git branch --move master main - переименовать ветку master в main.
 - git rm [filename] - удалить файл.
 - git checkout master - возврат на актуальное состояние или на главную ветку.
-- git checkout [number commit] - возврат к предыдущим версиям, до
-последующих изменений после коммита с номером number commit
+- git diff - показывает разницу между текущим файлом и сохраненным.
